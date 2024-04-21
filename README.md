@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-<p>
-  <em>
-    <h3>My Learning Blog</h3>
-    <a href="https://developer-jm.tistory.com/">
-      <img src="https://github.com/gyflsakfn/gyflsakfn/assets/56632443/ba73f346-9fca-42ac-8d6c-d8e74345268d" alt="tistory" width="150" />
-    </a>
-  </em>
-</p>
-
-
-
 <br />
 <p>
   <h3>My tech stack 📚</h3>
